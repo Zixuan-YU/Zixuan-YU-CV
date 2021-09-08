@@ -1,2 +1,21 @@
 # Zixuan-YU-biostat776-intro-zixuan-yu
  Introduction of Zixuan Yu
+# About Me  
+## Overview  
+My name is **Zixuan Yu**, a first year MHS student in the genetic epidemiology track.
+
+## Educational Background  
+I graduated from a Medical School in China and my major is clinical medicine. Unlike medical schools in the U.S., China's medical school starts right after high school. The total program length is 5 years, including four years of courses and shadowing plus one year of rotation in hospitals. During my junior years, I gradually found that I have a interest in public health. Therefore, I went to exchange programs in the McGill University and UCLA to familiarize myself with the educational environment in North America before I apply for graduate schools. 
+
+
+## Three fun facts about me
+1. I have a cute cat and his name is Mango. He is really timid and refuses to be hugged by anyone except me.  
+2. I love flowers and I will grab a bunch of flower every time I went to supermarket.  
+3. My parents had always wanted me to become a physician. They were not so pleased when I told them I was trying to apply for master programs in public health instead of medicine. However, their attitudes changed when I was accepted by JHSPH.  
+
+
+
+## Interesting Websites  
+- [R for data science](https://r4ds.had.co.nz/) It is a very useful guide of R.  
+- [NetEase Music](https://music.163.com/) It is a music website I like the most and I enjoy listening music when I am writing code. 
+
