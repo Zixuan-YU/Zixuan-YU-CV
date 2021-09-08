@@ -10,7 +10,7 @@ I graduated from a Medical School in China and my major is clinical medicine. Un
 
 ## Three fun facts about me
 1. I have a cute cat and his name is Mango. He is really timid and refuses to be hugged by anyone except me.  
-2. I love flowers and I will grab a bunch of flower every time I went to supermarket.  
+2. I love flowers and I will grab a bunch of flower every time I go to supermarket.  
 3. My parents had always wanted me to become a physician. They were not so pleased when I told them I was trying to apply for master programs in public health instead of medicine. However, their attitudes changed when I was accepted by JHSPH.  
 
 
