@@ -2,10 +2,10 @@
  Introduction of Zixuan Yu
 # About Me  
 ## Overview  
-My name is **Zixuan Yu**, a first year MHS student in the genetic epidemiology track.
+I am **Zixuan Yu**, a first year MHS student in the genetic epidemiology track.
 
 ## Educational Background  
-I graduated from a Medical School in China and my major is clinical medicine. Unlike medical schools in the U.S., China's medical school starts right after high school. The total program length is 5 years, including four years of courses and shadowing plus one year of rotation in hospitals. During my junior years, I gradually found that I have a interest in public health. Therefore, I went to exchange programs in the McGill University and UCLA to familiarize myself with the educational environment in North America before I apply for graduate schools. 
+I graduated from a Medical School in China and my major is clinical medicine. Unlike medical schools in the U.S., China's medical school starts right after high school. The total program length is 5 years, including four years of courses and shadowing plus one year of rotation in hospitals. During my junior years, I gradually found that I have a interest in public health and wished to study abroad. Therefore, I went to exchange programs related to public health in the McGill University and UCLA to familiarize myself with the educational environment in North America before I apply for graduate schools. 
 
 
 ## Three fun facts about me
