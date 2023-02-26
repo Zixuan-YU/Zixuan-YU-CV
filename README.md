@@ -5,6 +5,7 @@ Baltimore, Maryland
 Johns Hopkins University, Master of Health Sciences in Epidemiology, GPA: 3.9/ 4.0, expected 2023  
 - Coursework highlight:   
 Statical Computing, Methods in Biostatistics II-IV, Principal in Genetic Epidemiology I-III, Introduction to Data Management, Longitudinal Data Analysis, Multi-level Statistical Models, Scalable Computational Bioinformatics, Clinical Data Analysis  
+
 Zhejiang University City College, Bachelor in Medicine, GPA: 3.9/ 4.0, 2021  
 
 ## Work Experiences
